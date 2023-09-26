@@ -8,7 +8,7 @@ export default async function handler(
   res: NextApiResponse
 ) {
   await sendEmail({
-    to: "tuanphucnguyen2110@gmail.com",
+    to: "phuc.skynight@gmail.com",
     subject: "Welcome to NextAPI",
     html: render(MailTemplate()),
   });
