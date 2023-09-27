@@ -16,6 +16,7 @@ import {
   Text,
 } from "@react-email/components";
 import * as React from "react";
+import Mail from "../public/mail.svg";
 
 const WelcomeTemplate = () => {
   return (
@@ -172,7 +173,7 @@ const WelcomeTemplate = () => {
                 <Heading className="pt-[36px] text-[#FF8F43] font-bold text-3xl">
                   Thông tin học viên
                 </Heading>
-                <Row className="m-0 pb-5">
+                <Row className="m-0">
                   <Column className="w-[300px]">
                     <Heading className="text-2xl m-0">Họ và tên</Heading>
                     <Text className="text-base m-0">Lorem, ipsum dolor.</Text>
@@ -198,7 +199,7 @@ const WelcomeTemplate = () => {
               </Section>
             </Section>
 
-            <Hr />
+            <Hr className="py-[20px] border-t-[10px]" />
 
             <Section className="pb-10 px-[30px]">
               <Heading className="text-[#FF8F43] font-bold text-3xl text-center">
@@ -228,6 +229,7 @@ const WelcomeTemplate = () => {
                     width="11"
                     height="11"
                   />
+                  <Mail />
                 </Column>
                 <Column>likelion.vn@likelion.net</Column>
               </Row>
@@ -255,7 +257,7 @@ const WelcomeTemplate = () => {
               </Row>
             </Section>
 
-            <Hr />
+            <Hr className="py-[20px] border-t-[10px]" />
 
             <Section className="pb-7 px-[30px]">
               <Heading className="font-bold text-xl">
@@ -283,7 +285,7 @@ const WelcomeTemplate = () => {
               </Row>
             </Section>
 
-            <Hr />
+            <Hr className="p-0 m-0 border-t-[10px]" />
 
             <Section className="bg-black p-16">
               <Section className="mb-4">

@@ -359,13 +359,13 @@ eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* har
 
 /***/ }),
 
-/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2F.react-email%2Fsrc%2Fapp%2Fpreview%2F%5Bslug%5D%2Fpreview.tsx&server=false!":
-/*!**************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2F.react-email%2Fsrc%2Fapp%2Fpreview%2F%5Bslug%5D%2Fpreview.tsx&server=false! ***!
-  \**************************************************************************************************************************************************************************************************************************************/
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2F.react-email%2Fsrc%2Fapp%2Fpreview%2F%5Bslug%5D%2Fpreview.tsx&modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2Fpublic%2Fmail.svg&server=false!":
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2F.react-email%2Fsrc%2Fapp%2Fpreview%2F%5Bslug%5D%2Fpreview.tsx&modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2Fpublic%2Fmail.svg&server=false! ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./src/app/preview/[slug]/preview.tsx */ \"(app-pages-browser)/./src/app/preview/[slug]/preview.tsx\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lMkZVc2VycyUyRnR1YW5waHVjJTJGRGVza3RvcCUyRldvcmtzcGFjZSUyRm5leHQtZW1haWwlMkYucmVhY3QtZW1haWwlMkZzcmMlMkZhcHAlMkZwcmV2aWV3JTJGJTVCc2x1ZyU1RCUyRnByZXZpZXcudHN4JnNlcnZlcj1mYWxzZSEiLCJtYXBwaW5ncyI6IkFBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz82NTg5Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL3R1YW5waHVjL0Rlc2t0b3AvV29ya3NwYWNlL25leHQtZW1haWwvLnJlYWN0LWVtYWlsL3NyYy9hcHAvcHJldmlldy9bc2x1Z10vcHJldmlldy50c3hcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2F.react-email%2Fsrc%2Fapp%2Fpreview%2F%5Bslug%5D%2Fpreview.tsx&server=false!\n"));
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./src/app/preview/[slug]/preview.tsx */ \"(app-pages-browser)/./src/app/preview/[slug]/preview.tsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ../public/mail.svg */ \"(app-pages-browser)/../public/mail.svg\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lMkZVc2VycyUyRnR1YW5waHVjJTJGRGVza3RvcCUyRldvcmtzcGFjZSUyRm5leHQtZW1haWwlMkYucmVhY3QtZW1haWwlMkZzcmMlMkZhcHAlMkZwcmV2aWV3JTJGJTVCc2x1ZyU1RCUyRnByZXZpZXcudHN4Jm1vZHVsZXM9JTJGVXNlcnMlMkZ0dWFucGh1YyUyRkRlc2t0b3AlMkZXb3Jrc3BhY2UlMkZuZXh0LWVtYWlsJTJGcHVibGljJTJGbWFpbC5zdmcmc2VydmVyPWZhbHNlISIsIm1hcHBpbmdzIjoiQUFBQSxrTUFBaUk7QUFDakkiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz81NjUzIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL3R1YW5waHVjL0Rlc2t0b3AvV29ya3NwYWNlL25leHQtZW1haWwvLnJlYWN0LWVtYWlsL3NyYy9hcHAvcHJldmlldy9bc2x1Z10vcHJldmlldy50c3hcIik7XG5pbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9Vc2Vycy90dWFucGh1Yy9EZXNrdG9wL1dvcmtzcGFjZS9uZXh0LWVtYWlsL3B1YmxpYy9tYWlsLnN2Z1wiKSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2F.react-email%2Fsrc%2Fapp%2Fpreview%2F%5Bslug%5D%2Fpreview.tsx&modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2Fpublic%2Fmail.svg&server=false!\n"));
 
 /***/ }),
 
@@ -376,7 +376,18 @@ eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpa
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"088852e49afe\");\nif (true) { module.hot.accept() }\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL3NyYy9zdHlsZXMvZ2xvYmFscy5jc3MiLCJtYXBwaW5ncyI6IjtBQUFBLCtEQUFlLGNBQWM7QUFDN0IsSUFBSSxJQUFVLElBQUksaUJBQWlCIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8uL3NyYy9zdHlsZXMvZ2xvYmFscy5jc3M/Yzc4MCJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBcIjA4ODg1MmU0OWFmZVwiXG5pZiAobW9kdWxlLmhvdCkgeyBtb2R1bGUuaG90LmFjY2VwdCgpIH1cbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./src/styles/globals.css\n"));
+eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"f7144a83fa47\");\nif (true) { module.hot.accept() }\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL3NyYy9zdHlsZXMvZ2xvYmFscy5jc3MiLCJtYXBwaW5ncyI6IjtBQUFBLCtEQUFlLGNBQWM7QUFDN0IsSUFBSSxJQUFVLElBQUksaUJBQWlCIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8uL3NyYy9zdHlsZXMvZ2xvYmFscy5jc3M/Yzc4MCJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBcImY3MTQ0YTgzZmE0N1wiXG5pZiAobW9kdWxlLmhvdCkgeyBtb2R1bGUuaG90LmFjY2VwdCgpIH1cbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./src/styles/globals.css\n"));
+
+/***/ }),
+
+/***/ "(app-pages-browser)/../public/mail.svg":
+/*!**************************!*\
+  !*** ../public/mail.svg ***!
+  \**************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\"src\":\"/_next/static/media/mail.88bbb5b8.svg\",\"height\":12,\"width\":15,\"blurWidth\":0,\"blurHeight\":0});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uLi9wdWJsaWMvbWFpbC5zdmciLCJtYXBwaW5ncyI6IjtBQUFBLCtEQUFlLENBQUMsa0dBQWtHIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8uLi9wdWJsaWMvbWFpbC5zdmc/NzJmOSJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCB7XCJzcmNcIjpcIi9fbmV4dC9zdGF0aWMvbWVkaWEvbWFpbC44OGJiYjViOC5zdmdcIixcImhlaWdodFwiOjEyLFwid2lkdGhcIjoxNSxcImJsdXJXaWR0aFwiOjAsXCJibHVySGVpZ2h0XCI6MH07Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/../public/mail.svg\n"));
 
 /***/ }),
 
@@ -3382,7 +3393,7 @@ eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* har
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2F.react-email%2Fsrc%2Fapp%2Fpreview%2F%5Bslug%5D%2Fpreview.tsx&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2F.react-email%2Fsrc%2Fapp%2Fpreview%2F%5Bslug%5D%2Fpreview.tsx&modules=%2FUsers%2Ftuanphuc%2FDesktop%2FWorkspace%2Fnext-email%2Fpublic%2Fmail.svg&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
